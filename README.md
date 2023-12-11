@@ -8,7 +8,7 @@ Mitron Bank is planning to create a new credit card product. Atliq Data Services
 
 **2.** PowerPoint presented to Atliq's contact at Mitron.
 
-**3.** Video of presentation to Atliq's contact at Mitron.
+**3.** [Video of presentation to Atliq's contact at Mitron.](https://www.youtube.com/watch?v=aOFVULlKO74)
 
 **4.** Problem statement.
 
