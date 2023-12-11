@@ -5,12 +5,10 @@ Mitron Bank is planning to create a new credit card product. Atliq Data Services
 
 ## Materials
 **1.** Excel workbook containing Mitron's customer data and which includes a dynamic dashboard.
-[Imgur](https://i.imgur.com/R6le7Xv.png)
 
 **2.** PowerPoint presented to Atliq's contact at Mitron.
 
 **3.** Video of presentation to Atliq's contact at Mitron.
-[![Presentation for Mitron](https://img.youtube.com/vi/YOUTUBE_aOFVULlKO74/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_aOFVULlKO74)
 
 **4.** Problem statement.
 
